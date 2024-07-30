@@ -8,6 +8,6 @@ Il lavoro si basa sull'utilizzo di MatLab per l'implementazione di scripts per i
 <img width="669" alt="Screenshot 2024-07-31 alle 01 06 27" src="https://github.com/user-attachments/assets/3013b47e-d3fb-43b3-824b-3c20a701b8ee">
 
 
-Nella repository è presente anche il file denominato "Progetto RI.pdf" in cui sono discussi tutti i passaggi e i risultati ottenuti dallo studio e implementazione del problema.
+Nella repository è presente un file denominato "Progetto RI.pdf" in cui sono discussi tutti i passaggi e i risultati ottenuti dallo studio e implementazione del problema.
 
 
